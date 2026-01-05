@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'https://esm.sh/react@18';
 import ReactDOM from 'https://esm.sh/react-dom@18/client';
 import * as Icons from 'https://esm.sh/lucide-react@0.263.1';
 
-import React, { useState, useEffect } from 'react';
 import { Key, LogIn, Wifi, WifiOff, Plus, Trash2, X, Edit, Send, Users, FileText, Clock, Check, AlertCircle } from 'lucide-react';
 
 // Nostr utilities
