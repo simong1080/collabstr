@@ -11,11 +11,15 @@
   },
   "dependencies": {
     "@nostr-dev-kit/ndk": "^2.18.1",
+    "@uiw/react-md-editor": "^4.0.11",
+    "diff-match-patch": "^1.0.5",
     "lucide-react": "^0.562.0",
     "nostr-crdt": "^0.0.5",
     "nostr-tools": "^2.19.4",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
+    "react-markdown": "^10.1.0",
+    "remark-gfm": "^4.0.1",
     "uuid": "^13.0.0",
     "yjs": "^13.6.29"
   },
